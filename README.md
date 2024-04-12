@@ -1,2 +1,2 @@
 # storm
-Package manager for Rain programming language
+Project and package manager for Rain programming language
